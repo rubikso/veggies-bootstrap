@@ -3,8 +3,8 @@ This repository contains the starter files for the Ms. B's Veggies Bootstrap dem
 
 Fork this repository to begin the assignment. Instructions for the assignment are found on the course website at:
 
-- https://htc-ccis1301.github.io/fall-2016/morea/bootstrap-intro/ex-msb-part1.html
-- https://htc-ccis1301.github.io/fall-2016/morea/bootstrap-intro/ex-msb-part2.html
+- https://htc-ccis1301.github.io/spring-2017/morea/bootstrap-intro/ex-msb-part1.html
+- https://htc-ccis1301.github.io/spring-2017/morea/bootstrap-intro/ex-msb-part2.html
 
 When you are finished, you will submit your work for the assignment using a pull request. 
 
